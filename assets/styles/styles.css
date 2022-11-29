@@ -1,0 +1,19 @@
+.nav_logo {
+  height: 50px;
+}
+
+.custom_header {
+  background-color: aqua;
+}
+
+.carousel-img {
+  max-height: 600px;
+}
+
+.first_section {
+  background-color: #ed1111;
+  color: #fff;
+  font-weight: bold;
+}
+
+.second_section;
